@@ -1,4 +1,4 @@
-STATEFP,COUNTYFP,NAME,NAMELSAD,AGENCY,LARNAME,Tribe Name,State has Criminal Jurisdiction?,PL280?,Retrocession?,Retrocession Date,Partial Jurisdiction?,notes,citations,Uncertain/Needs lawyer confirmation,Error
+STATEFP,COUNTYFP,NAME,NAMELSAD,AGENCY,LARNAME,Tribe Name,CRIM_JURIS,PL280?,Retrocession?,Retrocession Date,Partial Jurisdiction?,notes,citations,Uncertain/Needs lawyer confirmation,Error
 42,123,Warren,Warren County,Unknown,Allegany LAR,Seneca Nation of Indians,,,,,,"This reservation is mostly in NY, where the state has jurisdiction. Could not find any information about Pennsylvania. Maps says reservation is entirely in NY",,,1
 53,63,Spokane,Spokane County,Coeur d'Alene,Coeur D'Alene LAR,Coeur d'Alene,,,,,,not in washington state,,,1
 53,75,Whitman,Whitman County,Coeur d'Alene,Coeur D'Alene LAR,Coeur d'Alene,,,,,,not in washington state,,,1
