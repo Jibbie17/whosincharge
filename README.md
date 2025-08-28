@@ -5,7 +5,7 @@ The repository documents and makes public the work of the University of Chicago'
 The goal of this project is to document the extent of state criminal jurisdiction on the trust lands of federally recognized tribes. In practice, this means documenting where the state has criminal jurisdiciton over crimes committed by tribal members against other tribal members. The bulk of this jurisdiction is defined by Public Law 280, but some state laws have the same effect and this authority can also be complicated by retrocessions, federal recognition of Tribes post-1953, and idisynchratic state laws and policies. The goal of this project was
 to identify for each tribe-county combination the extent of the state's criminal jurisdiction on tribal lands so that researchers can investiage the public policy impact of different jurisdictional regimes.
 
-*** Variables ***
+# Variables
 
 STATEFP - The State Fips code.
 
